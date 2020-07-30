@@ -6,7 +6,7 @@ const FormFieldWrapper = styled.div`
   position: relative;
   textarea {
     min-height: 150px;
-  }]
+  }
   input[type="color"] {
     padding-left: 56px;
   }
