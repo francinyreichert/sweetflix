@@ -1,0 +1,118 @@
+{
+  "categorias": [
+    {
+      "titulo": "Músicas",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "A História do BATMAN – Nostalgia Expresso",
+          "url": "https://www.youtube.com/watch?v=QZlvIbLajQU"
+        },
+        {
+          "titulo": "Por Que Todo Mundo Ama o Batman ?",
+          "url": "https://www.youtube.com/watch?v=hz1wO3mZl-U"
+        },
+        {
+          "titulo": "12 Coisas Que Você Não Sabia Sobre o Batman",
+          "url": "https://www.youtube.com/watch?v=InUDd4rRm_k"
+        },
+        {
+          "titulo": "Principais Batmóveis do Cinema",
+          "url": "https://www.youtube.com/watch?v=JQ2mIKqfARI"
+        },
+        {
+          "titulo": "5 Histórias Desconhecidas do Batman",
+          "url": "https://www.youtube.com/watch?v=7nYQGuR6dVU"
+        }      
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "Batman Contra o Capuz Vermelho",
+          "url": "https://www.youtube.com/watch?v=PPpfbds-Mqw"
+        },
+        {
+          "titulo": "Batman: O Cavaleiro das Trevas",
+          "url": "https://www.youtube.com/watch?v=mESV15B_ZGc"
+        },
+        {
+          "titulo": "Batman: A Máscara do Fantasma",
+          "url": "https://www.youtube.com/watch?v=_kRQCJXESKY"
+        },
+        {
+          "titulo": "Liga da Justiça: A Legião do Mal",
+          "url": "https://www.youtube.com/watch?v=awTE7mB8IoQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "ABSOLUTE : THE KILLING JOKE | A PIADA MORTAL",
+          "url": "https://www.youtube.com/watch?v=I0pXO0yLwu4"
+        },
+        {
+          "titulo": "Batman: A Queda do Morcego",
+          "url": "https://www.youtube.com/watch?v=dmh1j-C8XPo"
+        },
+        {
+          "titulo": "Batman: Morte da Família",
+          "url": "https://www.youtube.com/watch?v=mprobbbpL70"
+        },
+        {
+          "titulo": "Batman Noir: O Cavaleiro das Trevas",
+          "url": "https://www.youtube.com/watch?v=qdbnMXaReEY"
+        }
+      ]
+    },
+    {
+      "titulo": "Viagens",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Batman Begins",
+          "url": "https://www.youtube.com/watch?v=FdXaNB-TiDM"
+        },
+        {
+          "titulo": "Batman: O Cavaleiro das Trevas",
+          "url": "https://www.youtube.com/watch?v=jKt100tzyr4"
+        },
+        {
+          "titulo": "Batman: O Cavaleiro das Trevas Ressurge",
+          "url": "https://www.youtube.com/watch?v=oha0ZHd3Fz4"
+        },
+        {
+          "titulo": "Batman",
+          "url": "https://www.youtube.com/watch?v=fvEMyXL9IJI"
+        }
+      ]
+    },
+    {
+      "titulo": "Receitas",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Batman: Arkham Asylum",
+          "url": "https://www.youtube.com/watch?v=Ut5x6JbFrUU"
+        },
+        {
+          "titulo": "Batman: Arkham Knight",
+          "url": "https://www.youtube.com/watch?v=-6cOhCbzUQs"
+        },
+        {
+          "titulo": "Batman: Arkham City",
+          "url": "https://www.youtube.com/watch?v=8DIvxqraJi0"
+        },
+        {
+          "titulo": "Lego Batman: The Videogame",
+          "url": "https://www.youtube.com/watch?v=y6xlxFoYBmE"
+        }
+      ]
+    }    
+  ]
+}
