@@ -1,4 +1,4 @@
-💻 Projeto desenvolvido na Imersão React ⚛️ da Alura 
+<h2> 💻 Projeto desenvolvido na Imersão React ⚛️ da Alura </h2>
 
 <strong>Aula 1:</strong>
   - React Components e AluraFlix
