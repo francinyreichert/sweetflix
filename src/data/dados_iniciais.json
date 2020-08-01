@@ -1,34 +1,42 @@
 {
   "categorias": [
     {
-      "titulo": "Músicas",
-      "cor": "#6BD1FF",
+      "titulo": "Séries",
+      "cor": "#48D1CC",
       "videos": [
         {
-          "titulo": "A História do BATMAN – Nostalgia Expresso",
-          "url": "https://www.youtube.com/watch?v=QZlvIbLajQU"
+          "titulo": "Dark - Trailer da Trilogia",
+          "url": "https://www.youtube.com/watch?v=WLH9biwfZVM"
         },
         {
-          "titulo": "Por Que Todo Mundo Ama o Batman ?",
-          "url": "https://www.youtube.com/watch?v=hz1wO3mZl-U"
+          "titulo": "Grey's Anatomy - Trailer Temporada 16",
+          "url": "https://www.youtube.com/watch?v=s-BcvFRY_aI"
         },
         {
-          "titulo": "12 Coisas Que Você Não Sabia Sobre o Batman",
-          "url": "https://www.youtube.com/watch?v=InUDd4rRm_k"
+          "titulo": "Suits - Trailer Temporada 1",
+          "url": "https://www.youtube.com/watch?v=cUnkjEIW2-o"
         },
         {
-          "titulo": "Principais Batmóveis do Cinema",
-          "url": "https://www.youtube.com/watch?v=JQ2mIKqfARI"
+          "titulo": "Lúcifer - Trailer Temporada 5",
+          "url": "https://www.youtube.com/watch?v=3mTh2joPPj8"
         },
         {
-          "titulo": "5 Histórias Desconhecidas do Batman",
-          "url": "https://www.youtube.com/watch?v=7nYQGuR6dVU"
-        }      
+          "titulo": "Stranger Things - Trailer Temporada 1",
+          "url": "https://www.youtube.com/watch?v=b9EkMc79ZSU"
+        },
+        {
+          "titulo": "Friends - Melhores Momentos",
+          "url": "https://www.youtube.com/watch?v=cmJxB_5A27M"
+        },  
+        {
+          "titulo": "Orphan Black - Trailer Temporada 1",
+          "url": "https://www.youtube.com/watch?v=do_BCA-vR9E"
+        }    
       ]
     },
     {
-      "titulo": "Séries",
-      "cor": "#00C86F",
+      "titulo": "Músicas",
+      "cor": "#00FF7F",
       "videos": [
         {
           "titulo": "Batman Contra o Capuz Vermelho",
