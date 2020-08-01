@@ -14,3 +14,5 @@
   
 <strong>Aula 5:</strong>
   - Gerenciamento de videos com React e JavaScript
+<br>
+➡ Confira o resultado no site: https://franflix-orcin.vercel.app/
